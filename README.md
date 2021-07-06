@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhirwan
-- 👀 I’m interested in Backend Technologies, includes DevOps Engineering, and like the UI/UX too
+- 👀 I’m interested in Backend Technologies, includes DevOps Engineering, 
 - 🌱 I’m currently learning GoLang, Node.js, CI, and Data Engineering
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me 
