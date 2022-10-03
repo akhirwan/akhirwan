@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhirwan
-- 👀 I’m interested in Backend Technologies, includes DevOps Engineering, 
-- 🌱 I’m currently learning GoLang, Node.js, CI, and Data Engineering
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m currently working as Data Engineer  
+- 🌱 I'm experienced as Backend Developer in Microservice Environment
+- 💞️ I’m interested AND currently learning about Machine Learning, and Data Science, and more about GoLang, Python, Node.js, and other Backend Technologies
 - 📫 How to reach me 
   - LinkedIn : https://www.linkedin.com/in/akhirwan-novendi-789bb198/
   - Email : akhirwan.novendi@gmail.com
